@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">C.A.R.S.</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="action_reset">Reset Contacts</string>
+    <string name="system"><b><u>Car-Accident Rescue System</u></b></string>
+</resources>
