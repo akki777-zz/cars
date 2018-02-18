@@ -1,6 +1,6 @@
 # Car Accident Rescue System
 * Android app based on IOT, created at weHack'15 (VIT University)
-* Sends the victim's location to his/her family members
+* Sends the victim's location to his/her family members, via SMS
 * Hardware comprises of Android Phone, Arduino, Peizo-electric sensor and a Bluetooth module.
 
 <br><strong><a href="https://www.youtube.com/watch?v=SJb-V7jrL40" target="blank">Youtube link</a></strong><br><br>
